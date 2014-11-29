@@ -296,7 +296,7 @@ footer {
 	background-color: rgb(255, 255, 255);
 }
 #map {
-	background-image: url(file:///Users/adamstafford/Desktop/AMSWebsite/assets/images/940px-BlankMap-World6-Equirectangular.png);
+	background-image: url(https://googledrive.com/host/0B5Sbpwu9qGB_ZEVXTXBZMHQtbE0/940px-BlankMap-World6-Equirectangular.png);
 	background-repeat: no-repeat;
 	width: 940px;
 	height: 390px;
@@ -581,8 +581,6 @@ footer {
 	left: 10px;
 	bottom: 3px;
 	position: absolute;
-	text-align: center;
-	color: rgb(255, 255, 255);
 	display: table;
 	font-weight: bolder;
 }
