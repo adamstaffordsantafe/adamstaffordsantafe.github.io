@@ -648,3 +648,12 @@ footer {
 	height: 30px;
 	float: left;
 }
+#action_arrow {
+	padding-left: 145px;
+}
+#action_subtitle {
+	font-size: 20pt;
+	text-align: center;
+	padding-top: 10px;
+	color: rgb(82, 82, 82);
+}

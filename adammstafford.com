@@ -1,1 +1,0 @@
-adammstafford.com
